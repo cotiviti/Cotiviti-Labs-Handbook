@@ -121,8 +121,6 @@ Let us address each of these parts in detail.
 
 We will start with the Sponsors because without them we do not exist. Sponsors are our executives, vice presidents, and sometimes board members.  Sponsors are responsible for setting the strategic direction for our entire team. Every project on which Labs works has a sponsor and you should know who that person is. If you do not know then ask.
 
-Every week our team is responsible for producing [a report](https://github.com/cotiviti/LabsStatus/blob/master/README.md) that we deliver to our sponsors.  You should read this report and make sure that it is complete. This report our characterization of our progress and is critical for planning and setting expectations.
-
 ### Network
 
 The Network is where great, high quality products are made. It is composed of people who have a deep passion for what they are doing. They are artisans, they are scientists, they are engineers, and they are tailors. What they do not have are titles. They do not have any reporting structure. They configure and reconfigure themselves to achieve the best outcomes based on their mix of skills, passions, and logistical considerations. Ideally, they have every skill necessary to achieve a solution as quickly and efficiently as possible. If they do not, they work with the coaching team to find a partner or attempt to recruit. In short, they are a fast moving unit that collectively makes objective decisions about how take out the dependencies to success.
