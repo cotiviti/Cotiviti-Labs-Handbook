@@ -6,7 +6,7 @@
 
 ## Introduction
 
-If you are new to the Cotiviti Labs team and reading this for the first time then welcome! We are terribly excited that you joined! Getting here was no easy process. It wasn’t just the interviews and exams you went through for us; it was the years of school, the many hours learning your craft, and your family’s blank stare when you tried to explain to them what you do. After all that, we wanted to make your introduction into our team as painless as possible, so we wrote this handbook for you.
+If you are new to the [Cotiviti](http://cotiviti.com/) Labs team and reading this for the first time then welcome! We are terribly excited that you joined! Getting here was no easy process. It wasn’t just the interviews and exams you went through for us; it was the years of school, the many hours learning your craft, and your family’s blank stare when you tried to explain to them what you do. After all that, we wanted to make your introduction into our team as painless as possible, so we wrote this handbook for you.
 
 This handbook will walk you through our thinking about culture and why it is so important to our team. Culture is our operating system and we mean this in a very concrete way. We think of our culture as code. This is code that you can fork, and code that you can modify. If you see a way to improve our operating system then submit an issue and we will review it as a team and update our operating system accordingly. Understanding this operating system is one of the most important things you will do in your first few days to secure your success and ours.
 
