@@ -524,3 +524,5 @@ Innovation is rarely, if ever, the act of conjuring a completely novel idea from
 7.	[The No Asshole Rule](http://a.co/961QwS6)
 8.	[The Innovator's Dilemma](http://a.co/8TNf7Ev)
 9.	[You Are Not So Smart](http://a.co/9HUVZYc)
+10. [What got you here won't get you there](http://a.co/0ZPwm2N)
+11. [Triggers](http://a.co/cRkK4Ke)
