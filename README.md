@@ -1,5 +1,3 @@
-![GitHub Logo](https://github.com/cotiviti/labs/blob/master/Logo/No%20Words.png)
-
 # Cotiviti Labs Team Handbook
 
 *“Servants to the Mission”*
